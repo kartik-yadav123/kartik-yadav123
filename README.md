@@ -21,4 +21,3 @@
 ## 🐍 My Contribution Snake
 
 ![snake github game](https://raw.githubusercontent.com/kartik-yadav123/kartik-yadav123/output/github-contribution-grid-snake.svg)
-
