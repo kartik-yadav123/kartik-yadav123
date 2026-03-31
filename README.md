@@ -17,3 +17,8 @@
 <h2 align="left">## 💻 I Code With<br><br>🧠 **Languages**<br>Verilog • SystemVerilog • C (for low-level understanding)<br><br>⚙️ **Design & Verification**<br>UVM (Universal Verification Methodology) • Testbench Architecture • FSM Design • RTL Design<br><br>🔌 **Protocols & Interfaces**<br>USB 2.0 • AMBA AXI • I2C • Wishbone<br><br>🛠️ **Tools & Platforms**<br>ModelSim • Quartus Prime • FPGA (DE10-Lite) • GTKWave<br><br>📐 **Core Concepts**<br>Digital Electronics • Computer Architecture • Timing Analysis • Memory Interfaces<br><br>🚀 **Special Interest**<br>Protocol Design • FPGA-Based Systems • High-Speed Interfaces • End-to-End Hardware Development</h2>
 
 ###
+
+## 🐍 My Contribution Snake
+
+![snake github game](https://raw.githubusercontent.com/kartik-yadav123/kartik-yadav123/output/github-contribution-grid-snake.svg)
+
