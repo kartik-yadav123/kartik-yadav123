@@ -1,7 +1,7 @@
 <h1 align="left">👋 Hi, I'm Kartik Yadav</h1>
 
 <p align="left">
-<b>Embedded Systems | Digital Design & Verification | FPGA | RTL | Protocols</b>
+<b>Embedded Systems | SoC Design & Verification | FPGA | RTL | Protocols</b>
 </p>
 
 <p align="left">
